@@ -2,12 +2,12 @@
 
 A passionate Full Stack (MERN) developer from Bangladesh
 
-👨‍💻 All of my projects are available at ...
+👨‍💻 All of my projects are available here.
 
 💬 Ask me about React, Node.js, Express.js, MongoDB, React, Next.js
 
 📫 How to reach me masud.39cu@gmail.com
-📫 How to reach me https://hasan-masud.netlify.app/
+📫 https://hasan-masud.netlify.app/
 
 📄 Know about my experiences https://drive.google.com/file/d/1o7nWBhWLqyMjW9As00uNV-ofusJyVvsw/view?usp=sharing
 
