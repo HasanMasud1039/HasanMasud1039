@@ -19,7 +19,9 @@ A passionate Full Stack (MERN) developer from Bangladesh
 <a href="https://www.linkedin.com/in/hasan-masud-110203/" >
 <img src="https://i.ibb.co/xLHkMj3/linkedin-square-icon-1320168278649782468.png" className="rounded-full" alt="LinkedIn Logo" width="50" height="50">
 </a>
-
+<a href="https://hasan-masud.netlify.app/" >
+<img src="https://w7.pngwing.com/pngs/360/9/png-transparent-adobe-portfolio-macos-bigsur-icon.png" alt="Portfolio Logo" className="rounded-xl" width="50" height="50">
+</a>
 <a href="https://github.com/HasanMasud1039" >
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="LinkedIn Logo" className="rounded-xl" width="50" height="50">
 </a>
