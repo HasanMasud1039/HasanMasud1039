@@ -54,15 +54,15 @@ A passionate Full Stack (MERN) developer from Bangladesh
 
 <h4 align="left">Backend:</h4>
 <div>
-  <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" alt="NodeJS" className="rounded-xl" width="60" height="60">
-    <img src="https://ih1.redbubble.net/image.438908244.6144/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" alt="ExpressJS" className="rounded-xl" width="60" height="60">  
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="NodeJS" className="rounded-xl" width="60" height="60">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/express.svg" alt="ExpressJS" className="rounded-xl" width="60" height="60">  
 </div>
 
 
 <h4 align="left">Database:</h4>
 <div>
-  <img src="https://global-uploads.webflow.com/62014002185c7b256316ef63/62559cbb1c6557d302c2cbd2_GFz_P-5e_400x400.png" alt="mongoDB" className="rounded-xl" width="60" height="60">
-    <img src="https://aety.io/wp-content/uploads/2016/11/mysql-logo.png" alt="mySQL" className="rounded-xl" width="60" height="60">
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mongodb.svg" alt="mongoDB" className="rounded-xl" width="60" height="60">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mySQL" className="rounded-xl" width="60" height="60">
   
 </div>
 
