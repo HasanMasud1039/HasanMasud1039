@@ -10,7 +10,7 @@ A passionate Full Stack (MERN) developer from Bangladesh
 
 📄 Know about my experiences https://drive.google.com/file/d/1-w_hhi9uYDgcYYvDvHSNEhoa4G7jTabi/view?usp=drive_link
 <p>This Year: <img src="https://komarev.com/ghpvc/?username=HasanMasud1039&label=Profile%20views&color=0e75b6&style=flat%22" /></p>
-<h3>Find Me:<img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h3>
+<h2>Find Me:<img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2><hr/>
 <div className="gap-4">
   <a href="https://www.facebook.com/hasan.masud.1234" className="rounded-full">
 <img src="https://i.ibb.co/LPgnXm0/124010.png" alt="Facebook Logo"" width="46" height="46">
