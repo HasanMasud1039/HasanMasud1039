@@ -13,17 +13,17 @@ A passionate Full Stack (MERN) developer from Bangladesh
 <h2>Find Me:<img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <div className="gap-4">
   <a href="https://www.facebook.com/hasan.masud.1234" className="rounded-full">
-<img src="https://i.ibb.co/LPgnXm0/124010.png" alt="Facebook Logo"" width="46" height="46">
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="Facebook Logo"" width="46" height="46">
 </a>
 
 <a href="https://www.linkedin.com/in/hasan-masud-110203/" >
-<img src="https://i.ibb.co/xLHkMj3/linkedin-square-icon-1320168278649782468.png" className="rounded-full" alt="LinkedIn Logo" width="50" height="50">
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" className="rounded-full" alt="LinkedIn Logo" width="50" height="50">
 </a>
 <a href="https://hasan-masud.netlify.app/" >
 <img src="https://cdn-icons-png.flaticon.com/512/726/726005.png" alt="Portfolio Logo" className="rounded-xl" width="50" height="50">
 </a>
 <a href="https://github.com/HasanMasud1039" >
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="LinkedIn Logo" className="rounded-xl" width="50" height="50">
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub Logo" className="rounded-xl" width="50" height="50">
 </a>
 </div>
 
@@ -32,10 +32,12 @@ A passionate Full Stack (MERN) developer from Bangladesh
 
 <h4 align="left">Language:</h4>
 <div>
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="Javascript" className="rounded-xl" width="60" height="60">
-    <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="C" className="rounded-xl" width="60" height="60">
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Javascript" className="rounded-xl" width="60" height="60">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C" className="rounded-xl" width="60" height="60">
+      <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="Cpp" className="rounded-xl" width="60" height="60">
+  
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="Matlab" className="rounded-xl" width="60" height="60">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" className="rounded-xl" width="60" height="60">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/php.svg" alt="PHP" className="rounded-xl" width="60" height="60">
   
 </div>
 
@@ -73,7 +75,7 @@ A passionate Full Stack (MERN) developer from Bangladesh
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" className="rounded-xl" width="60" height="60">
         <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" alt="Firebase" className="rounded-xl" width="60" height="60">
         <img src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" alt="Vercel" className="rounded-xl" width="60" height="60">
-         <img src="https://logowik.com/content/uploads/images/arduino5804.jpg" alt="Arduino" className="rounded-xl" width="60" height="60">
+         <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/arduino.svgg" alt="Arduino" className="rounded-xl" width="60" height="60">
          <img src="https://logowik.com/content/uploads/images/figma.jpg" alt="figma" className="rounded-xl" width="60" height="60">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="AndroidStudio" className="rounded-xl" width="60" height="60">
 
