@@ -42,11 +42,11 @@ A passionate Full Stack (MERN) developer from Bangladesh
 
 <h4 align="left">Frontend:</h4>
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="HTML5" className="rounded-xl" width="60" height="60">
-    <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS" className="rounded-xl" width="60" height="60">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" className="rounded-xl" width="60" height="60">
-        <img src="https://logowik.com/content/uploads/images/t_tailwind-css3232.logowik.com.webp" alt="Tailwind" className="rounded-xl" width="60" height="60">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React " className="rounded-xl" width="60" height="60">
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="HTML5" className="rounded-xl" width="60" height="60">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="CSS" className="rounded-xl" width="60" height="60">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="Bootstrap" className="rounded-xl" width="60" height="60">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/tailwind.svg" alt="Tailwind" className="rounded-xl" width="60" height="60">
+         <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="React " className="rounded-xl" width="60" height="60">
   
 </div>
 
