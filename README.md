@@ -79,7 +79,6 @@ Languages and Tools:
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="AndroidStudio" className="rounded-xl" width="60" height="60">
   
 </div>
-<div>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanMasud1039)](https://github.com/HasanMasud1039/github-readme-stats)
-</div>
+
 
