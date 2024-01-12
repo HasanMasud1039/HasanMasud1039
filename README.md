@@ -1,5 +1,7 @@
 # Hi 👋, Myself Hasan Masud
-
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=HasanMasud1039&theme=react&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMasud1039&theme=react&show_icons=true)](https://github.com/HasanMasud1039/github-readme-stats)
 A passionate Full Stack (MERN) developer from Bangladesh
 
 👨‍💻 All of my projects are available here.
@@ -79,8 +81,6 @@ Languages and Tools:
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="AndroidStudio" className="rounded-xl" width="60" height="60">
   
 </div>
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HasanMasud1039&theme=react&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMasud1039&theme=react&show_icons=true)](https://github.com/HasanMasud1039/github-readme-stats)
+
 
 
