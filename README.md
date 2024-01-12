@@ -9,7 +9,7 @@ A passionate Full Stack (MERN) developer from Bangladesh
 📫 https://hasan-masud.netlify.app/
 
 📄 Know about my experiences https://drive.google.com/file/d/1-w_hhi9uYDgcYYvDvHSNEhoa4G7jTabi/view?usp=drive_link
-<p align="center">This Year: <img src="https://komarev.com/ghpvc/?username=HasanMasud1039&label=Profile%20views&color=0e75b6&style=flat%22" /></p>
+<p>This Year: <img src="https://komarev.com/ghpvc/?username=HasanMasud1039&label=Profile%20views&color=0e75b6&style=flat%22" /></p>
 # Find me in:
 <div className="gap-4">
   <a href="https://www.facebook.com/hasan.masud.1234" className="rounded-full">
