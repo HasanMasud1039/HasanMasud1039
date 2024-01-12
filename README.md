@@ -1,4 +1,5 @@
 # Hi 👋, Myself Hasan Masud
+A passionate Full Stack (MERN) developer from Bangladesh
 
 👨‍💻 All of my projects are available here.
 
@@ -76,7 +77,6 @@ Languages and Tools:
   ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=HasanMasud1039&theme=react&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMasud1039&theme=react&show_icons=true)](https://github.com/HasanMasud1039/github-readme-stats)
-A passionate Full Stack (MERN) developer from Bangladesh
 
 </div>
 
