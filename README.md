@@ -1,8 +1,4 @@
 # Hi 👋, Myself Hasan Masud
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HasanMasud1039&theme=react&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMasud1039&theme=react&show_icons=true)](https://github.com/HasanMasud1039/github-readme-stats)
-A passionate Full Stack (MERN) developer from Bangladesh
 
 👨‍💻 All of my projects are available here.
 
@@ -28,9 +24,6 @@ A passionate Full Stack (MERN) developer from Bangladesh
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="LinkedIn Logo" className="rounded-xl" width="50" height="50">
 </a>
 </div>
-
-
-
 
 Languages and Tools:
 <h4 align="left">Language:</h4>
@@ -79,7 +72,12 @@ Languages and Tools:
          <img src="https://logowik.com/content/uploads/images/arduino5804.jpg" alt="Arduino" className="rounded-xl" width="60" height="60">
          <img src="https://logowik.com/content/uploads/images/figma.jpg" alt="figma" className="rounded-xl" width="60" height="60">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="AndroidStudio" className="rounded-xl" width="60" height="60">
-  
+
+  ## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=HasanMasud1039&theme=react&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMasud1039&theme=react&show_icons=true)](https://github.com/HasanMasud1039/github-readme-stats)
+A passionate Full Stack (MERN) developer from Bangladesh
+
 </div>
 
 
