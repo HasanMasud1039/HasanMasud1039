@@ -78,9 +78,6 @@ Languages and Tools:
 ![](https://github-readme-stats.vercel.app/api?username=HasanMasud1039&theme=react&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMasud1039&theme=react&show_icons=true)](https://github.com/HasanMasud1039/github-readme-stats)
 
-## 🔥GitHub Activity Streak
-![](https://github-readme-streak-stats.herokuapp.com?user=HasanMasud1039&theme=react&show_icons=true")
-
 </div>
 
 
