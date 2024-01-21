@@ -11,7 +11,7 @@ I'm Hasan Masud, a passionate Full Stack (MERN) developer from Bangladesh.
 ![Profile Views](https://komarev.com/ghpvc/?username=HasanMasud1039&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Find Me 🌐
-<div class="gap-4">
+<div class="gap-8 space-x-4">
   <a href="https://www.facebook.com/hasan.masud.1234" class="rounded-full">
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="Facebook Logo" width="46" height="46">
   </a>
@@ -25,7 +25,7 @@ I'm Hasan Masud, a passionate Full Stack (MERN) developer from Bangladesh.
   </a>
 
   <a href="https://github.com/HasanMasud1039">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub Logo" class="rounded-xl" width="50" height="50">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub Logo" class="rounded-xl text-black" width="50" height="50">
   </a>
 </div>
 
