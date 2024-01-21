@@ -66,7 +66,7 @@ I'm Hasan Masud, a passionate Full Stack (MERN) developer from Bangladesh.
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" class="rounded-xl" width="60" height="60">
   <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" alt="Firebase" class="rounded-xl" width="60" height="60">
   <img src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" alt="Vercel" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/arduino.svgg" alt="Arduino" class="rounded-xl" width="60" height="60">
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/arduino.svg" alt="Arduino" class="rounded-xl" width="60" height="60">
   <img src="https://logowik.com/content/uploads/images/figma.jpg" alt="Figma" class="rounded-xl" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio" class="rounded-xl" width="60" height="60">
 </div>
