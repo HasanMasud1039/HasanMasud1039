@@ -5,14 +5,14 @@ I'm Hasan Masud, a passionate Full Stack (MERN) developer from Bangladesh.
 - 🌐 Explore my projects on [GitHub](https://github.com/HasanMasud1039).
 - 💬 Ask me about React, Node.js, Express.js, MongoDB, and Next.js.
 - 📫 Reach me at [masud.39cu@gmail.com](mailto:masud.39cu@gmail.com)
-- 🌐 Check out my portfolio: [hasan-masud.netlify.app](https://hasan-masud.netlify.app/)
-- 📄 Learn about my experiences on [Google Drive](https://drive.google.com/file/d/1iG3f0fVt1ohlnSz69NNa9iOENJy8qSSS/view?usp=sharing)
+- 🌐 Check out my portfolio: [My Portfolio](https://hasan-masud.netlify.app/)
+- 📄 Learn about my experiences on [My Resume](https://drive.google.com/file/d/1iG3f0fVt1ohlnSz69NNa9iOENJy8qSSS/view?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HasanMasud1039&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Find Me 🌐
 <div class="gap-8 space-x-4">
-  <a href="https://www.facebook.com/hasan.masud.1234" class="rounded-full">
+  <a href="https://www.facebook.com/hasan.masud.1234" class="rounded-full mx-2">
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="Facebook Logo" width="46" height="46">
   </a>
 
