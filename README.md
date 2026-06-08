@@ -1,77 +1,114 @@
-# Hi there! 👋
+<div align="center">
 
-I'm Hasan Masud, a passionate Full Stack (MERN) developer from Bangladesh.
+# Hi, I'm Hasan Masud 👋
 
-- 🌐 Explore my projects on [GitHub](https://github.com/HasanMasud1039).
-- 💬 Ask me about React, Node.js, Express.js, MongoDB, and Next.js.
-- 📫 Reach me at [masud.39cu@gmail.com](mailto:masud.39cu@gmail.com)
-- 🌐 Check out my portfolio: [My Portfolio](https://hasan-masud.netlify.app/)
-- 📄 Learn about my experiences on [My Resume](https://drive.google.com/file/d/1iG3f0fVt1ohlnSz69NNa9iOENJy8qSSS/view?usp=sharing)
+### Software Engineer · Full-Stack & AI Development · Japan-Experienced
 
-![Profile Views](https://komarev.com/ghpvc/?username=HasanMasud1039&label=Profile%20views&color=0e75b6&style=flat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://hasan-masud.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-masud-110203/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masud.39cu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasanMasud1039)
 
-## Find Me 🌐
-<div class="gap-8 space-x-4">
-  <a href="https://www.facebook.com/hasan.masud.1234" class="rounded-full mx-2">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="Facebook Logo" width="46" height="46">
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=HasanMasud1039&label=Profile+Views&color=0e75b6&style=flat)
 
-  <a href="https://www.linkedin.com/in/hasan-masud-110203/">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" class="rounded-full" alt="LinkedIn Logo" width="50" height="50">
-  </a>
-
-  <a href="https://hasan-masud.netlify.app/">
-    <img src="https://cdn-icons-png.flaticon.com/512/726/726005.png" alt="Portfolio Logo" class="rounded-xl" width="50" height="50">
-  </a>
-
-  <a href="https://github.com/HasanMasud1039">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub Logo" class="rounded-xl text-black" width="50" height="50">
-  </a>
 </div>
 
-## Tools & Technology 🛠️
-### Language
-<div>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="C++" class="rounded-xl" width="60" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="Matlab" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/php.svg" alt="PHP" class="rounded-xl" width="60" height="60">
-</div>
+---
+
+## 👨‍💻 About Me
+
+- 🏢 Software Engineer at **Sagbrain Bangladesh Co., Ltd.** — building digital transformation products in bioscience, ERP & music tech
+- 🇯🇵 Previously at **Sagbrain Corporation, Tokyo, Japan** — exposed to high-standard Japanese software delivery culture
+- 🤖 Currently building **AlphaQA** — an AI-powered SQA automation platform using the **Claude API (Anthropic)**
+- 🎓 **MS in Computer Science & Engineering** — University of Chittagong, 2023
+- 🌏 Open to full-stack & AI engineering roles in Japan, remote, or globally
+- 📩 Reach me at **masud.39cu@gmail.com**
+
+---
+
+## 🚀 Featured Project
+
+### 🧪 AlphaQA — AI-Powered SQA Automation
+> An intelligent software quality assurance platform built with the Claude API that automates test case generation and QA workflows — dramatically reducing manual testing effort for web applications.
+
+`Claude API` `React` `Node.js` `AI Automation` `SQA`
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
-<div>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="HTML5" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="CSS" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="Bootstrap" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/tailwind.svg" alt="Tailwind" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="React" class="rounded-xl" width="60" height="60">
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
-<div>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="NodeJS" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/express.svg" alt="ExpressJS" class="rounded-xl" width="60" height="60">
-</div>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### AI & Automation
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Database
-<div>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mongodb.svg" alt="MongoDB" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="MySQL" class="rounded-xl" width="60" height="60">
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📦 Projects I've Shipped
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧪 **AlphaQA** | AI-powered SQA automation platform | Claude API, React, Node.js |
+| 🔬 **BPM** | Order EDI platform for bioscience supply chain | Laravel, MySQL |
+| 🧫 **CLIMS** | Lab inventory & budget management system | PHP, PostgreSQL |
+| ⚙️ **ORDIA** | Business process automation platform | Laravel, React |
+| 🎵 **Groovecast** | Music-based web platform | React, Node.js |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanMasud1039&theme=react&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMasud1039&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasanMasud1039&theme=react&hide_border=true)
+
 </div>
 
-### Tools
-<div>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" alt="Git" class="rounded-xl" width="60" height="60">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" class="rounded-xl" width="60" height="60">
-  <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" alt="Firebase" class="rounded-xl" width="60" height="60">
-  <img src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" alt="Vercel" class="rounded-xl" width="60" height="60">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/arduino.svg" alt="Arduino" class="rounded-xl" width="60" height="60">
-  <img src="https://logowik.com/content/uploads/images/figma.jpg" alt="Figma" class="rounded-xl" width="60" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio" class="rounded-xl" width="60" height="60">
+---
+
+## 🌐 Languages
+
+- 🇬🇧 English — Professional Working
+- 🇯🇵 Japanese — Elementary (actively improving)
+
+---
+
+<div align="center">
+
+*Open to full-stack & AI engineering roles — Japan, remote, or global.*
+**📩 masud.39cu@gmail.com**
+
 </div>
-
-## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanMasud1039&theme=react&show_icons=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMasud1039&theme=react&show_icons=true&theme=cobalt)](https://github.com/HasanMasud1039/github-readme-stats)
